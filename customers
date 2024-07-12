@@ -1,42 +1,22 @@
-[
-    {
-        "id": 1,
-        "name": "Ahmed Ali"
-    },
-    {
-        "id": 2,
-        "name": "Aya Elsayed"
-    },
-    {
-        "id": 3,
-        "name": "Mina Adel"
-    },
-    {
-        "id": 4,
-        "name": "Sarah Reda"
-    },
-    {
-        "id": 5,
-        "name": "Mohamed Sayed"
-    },
-    {
-        "id": 6,
-        "name": "Layla Hassan"
-    },
-    {
-        "id": 7,
-        "name": "Omar Youssef"
-    },
-    {
-        "id": 8,
-        "name": "Nour El-Deen"
-    },
-    {
-        "id": 9,
-        "name": "Hana Khaled"
-    },
-    {
-        "id": 10,
-        "name": "Kareem Ahmed"
-    }
-]
+ [
+        { 
+"id": 1, 
+"name": "Ahmed Ali" 
+        }, 
+        { 
+"id": 2, 
+"name": "Aya Elsayed" 
+        }, 
+        { 
+            "id": 3, 
+            "name": "Mina Adel" 
+        }, 
+        { 
+            "id": 4, 
+            "name": "Sarah Reda" 
+        }, 
+        { 
+            "id": 5, 
+            "name": "Mohamed Sayed" 
+        } 
+    ]
